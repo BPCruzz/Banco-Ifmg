@@ -6,6 +6,8 @@ public class BancoIFMG {
 
     public static void iniciarPartida(Posicao jogadoresCadastrados, Tabuleiro tabuleiro) {
 
+        //Esse código foi feito no inicio da materia de Poo
+
         while (jogadoresCadastrados.quantidadeDeJogadores() > 1) {
 
             //Rodada acontece no for, enquanto o indice não passar por todos os jogadores, o for não termina!
